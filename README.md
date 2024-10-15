@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...  Git Hub, Digitalizaiton, Python, Power Apps, Copilot, Excel, Revit, Autocad, Sofistik, Grashopper, Rhino, ETU Hottgenroth
 - 💞️ I’m looking to collaborate on ... Creating new Apps and Features - To simplify the construction fiels
 - 📫 How to reach me ... Send me a Heart
-- 😄 Pronouns: ... MareCare
+- 😄 Pronouns: ... MareCare - Jasamsrbin 
 - ⚡ Fun fact: ... HAHAHHAHAHA
 
 <!---
